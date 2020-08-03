@@ -1,4 +1,4 @@
-# Tableau_Dashboard_C0VID-19
+# Tableau_Dashboard_COVID-19
 Created dashboard by clinically dissecting COVID-19 data
 
 **Tableau**:
